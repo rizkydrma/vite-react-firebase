@@ -23,7 +23,7 @@ const Login = () => {
             label="password"
             placeholder="Masukan password"
           />
-          <Button size="normal" variant="primary" type="button">
+          <Button size="normal" variant="white" type="button">
             Submit
           </Button>
         </form>
